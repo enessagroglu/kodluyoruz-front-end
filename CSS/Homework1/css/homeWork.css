@@ -1,6 +1,5 @@
 body{
     background-color: rgb(49, 45, 45);
-    font-family: "copperplate","fantasy";
     color: azure;
     max-width: 500px;
     margin: auto;
@@ -25,7 +24,7 @@ a:link, a:visited {
  
 #baslik-tipi{
     color: white;
-    font-size: larger;
+    font-size: 50px;
     font-style: oblique;
     text-align: center;
     
