@@ -1,0 +1,23 @@
+.logo{
+    width: 351px;
+    height: 113;
+    margin: auto;
+    
+    
+}
+
+body{
+    background-color: rgb(255, 255, 255);
+    background-image: url(/web/19981202230410im_/http://www.google.com/alpha.jpg);
+}
+
+center {
+    display: block;
+    text-align: -webkit-center;
+}
+
+tbody {
+    display: table-row-group;
+    vertical-align: middle;
+    border-color: inherit;
+}
